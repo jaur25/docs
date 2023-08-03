@@ -13,4 +13,3 @@ Esta documentación está destinada a definir cada uno de los procedimientos de 
 - [Finca](estate)
 - [Gestión de Asistencia Técnica](technical-assistance-management)
 - [Gestión de Financiamiento](financing-management)
-- [Aumento de Límite Crédito al Agricultor](credit-limit-increase)

@@ -36,11 +36,7 @@ Genere el "**Reporte de Detalle de Consignación**", filtrando por "**Socio del 
 
 Imagen 1. Reporte de Detalle de Consignación
 
-::: info Nota
-
-El reporte de relación de productos en consignación se puede generar muchas veces y sirve para ver los productos pendientes por relacionar, los productos relacionados o todos los productos sin importar si está o no relacionado.
-
-:::
+    El reporte de relación de productos en consignación se puede generar muchas veces y sirve para ver los productos pendientes por relacionar, los productos relacionados o todos los productos sin importar si está o no relacionado.
 
 **Registrar Documento por Pagar**
 ---------------------------------
@@ -104,10 +100,7 @@ Imagen 5. Campo Socio del Negocio
 
 Imagen 6. Campo Orden de Venta
 
-::: info Nota
-La orden de compra es un factor clave y se debe colocar para poder crear la factura de cuentas por pagar desde la venta o el uso interno
-
-:::
+    La orden de compra es un factor clave y se debe colocar para poder crear la factura de cuentas por pagar desde la venta o el uso interno
 
 - Seleccione en el campo "**F. Documento**", el rango de fecha de facturación para filtrar la búsqueda de información.
 
