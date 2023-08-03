@@ -56,11 +56,7 @@ Introduzca el tipo de conversión en la cuál gestionará el expediente, recuerd
 
 Imagen 6. Tipo de Cambio de Documento
 
-::: info Nota
-
-El campo **Moneda de Fiscal** es la moneda de curso legal y es cargada automáticamente.
-
-:::
+    El campo **Moneda de Fiscal** es la moneda de curso legal y es cargada automáticamente.
 
 Vaya a la siguiente pestaña **Tipo de Conversión Negociada**, para establecer la tasa asignada al expediente de importación.
 
@@ -80,11 +76,7 @@ Imagen 8. Tipo de Cambio de Documento
 
 Imagen 9. Tipo de Cambio de Documento
 
-::: info Nota
-
-Tome en cuenta que esta ''tasa de cambio'' será tasa con la que cada documento imputado en la importación es convertido, es decir al establecer el expediente en un documento, automáticamente será establecida la tasa negociada.
-
-:::
+    Tome en cuenta que esta ''tasa de cambio'' será tasa con la que cada documento imputado en la importación es convertido, es decir al establecer el expediente en un documento, automáticamente será establecida la tasa negociada.
 
 - Proceda a completar el documento para que su expediente tenga validez en los documentos que fungen como costo CIF o costo FOB.
 
@@ -130,11 +122,9 @@ Imagen 11. Orden de Compra Importación sin Completar
 
 Imagen 12. Expediente de Importación
 
-::: info ¡Importante!
-
+~~~
 Al colocar el expediente se establece el ''tipo de conversión negociado'' y el ''Expediente Generado''.
-
-:::
+~~~
 
 - Seleccione la opción "**Completar**", ubicada en la parte inferior derecha del documento.
 
@@ -168,11 +158,9 @@ Realice el procedimiento regular para realizar un documento por pagar desde una 
 
 Imagen 17. Factura de Cuentas por Pagar Importación
 
-::: info ¡Importante!
+    ¡Importante!
 
-Seleccione el tipo de documento: **Factura de Cuentas por Pagar Importación**, para que este documento afecte la base del IVA.
-
-:::
+    Seleccione el tipo de documento: **Factura de Cuentas por Pagar Importación**, para que este documento afecte la base del IVA.
 
 Asigne el expediente creaado anteriormente en el campo **Expediente Importación/Exportación**.
 
@@ -180,11 +168,7 @@ Asigne el expediente creaado anteriormente en el campo **Expediente Importación
 
 Imagen 18. Expediente de Importación
 
-::: info Nota
-
-Al crear desde la orden de compra establecerá el **expediente de Importación** asociado a la orden de compra, y establece el **tipo de conversión negociado**.
-
-:::
+    Al crear desde la orden de compra establecerá el **expediente de Importación** asociado a la orden de compra, y establece el **tipo de conversión negociado**.
 
 Vea el expediente creaado anteriormente en el campo **Expediente Importación/Exportación**.
 
@@ -200,17 +184,17 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras*
 
 Imagen 19. Menú de ADempiere
 
-Realice el procedimiento regular para realizar un documento por pagar desde una Orden de Compra, explicado en el material [Documento por pagar](/src/about/services/products/requisition-to-invoice.md)
+Realice el procedimiento regular para realizar un documento por pagar desde una Orden de Compra, explicado en el material :ref:`documento/documento-por-pagar`.
 
 ![Factura de Importación](/assets/img/docs/lve/procedures/import/resources/facturaimpor.png)
 
 Imagen 20. Factura de Cuentas por Pagar Importación
 
-::: info ¡Importante!
+~~~
+¡Importante!
 
 Seleccione el tipo de documento: ''Facturas Gastos Internacionales Importación'', para que este documento afecte la base del IVA.
-
-:::
+~~~
 
 Asigne el expediente creaado anteriormente en el campo **Expediente Importación/Exportación**.
 
@@ -224,11 +208,8 @@ Asigne la factura relacionada o factura de la mercacía creada anteriormente en 
 
 Imagen 22. Factura Relacionada
 
-::: info Nota:
-
-Al colocar el expediente se establece el **tipo de conversión negociado**.
-
-:::
+    Nota:
+    Al colocar el expediente se establece el **tipo de conversión negociado**.
 
 **Cancelación de Factura**
 

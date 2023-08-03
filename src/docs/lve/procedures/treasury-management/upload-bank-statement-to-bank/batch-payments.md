@@ -17,7 +17,7 @@ ADempiere permite procesar pagos en lotes y generar su respectivo archivo "**.tx
 
 Este proceso permite que se realice una gran cantidad de pagos a diferentes socios del negocio, en el cual la empresa u organización debe clasificar o agrupar mediante una selección de pago, todos los procesos de nómina o en su defecto, todas las facturas de cuentas por pagar a proveedores que requiere cancelar.
 
-## Configuración Esencial
+**Configuración Esencial**
 
 Principalmente, el servicio de ADempiere debe contar con la siguiente configuración por socio del negocio, en la pestaña "**Cuenta Bancaria**" del registro del mismo. Esta configuración se debe cumplir de manera "**Obligatoria**" para los socios que cumplen los roles de proveedor y empleado.
 
@@ -73,6 +73,8 @@ Finalmente, se puede visualizar el archivo descargado automáticamente desde ADe
 
 Un ejemplo del archivo generado en formato "**.txt**", sin seleccionar el usuario en la pestaña "**Cuenta Bancaria**", puede ser el siguiente:
 
+::
+
     HDRBANESCO        ED  95BPAYMULP
     01SCV                                9  1000035                            20201008000000
     021000035                       J000000000       Compaa Estndar                     000000750000000VES 0134000000000000000               BANESCO    20201008
@@ -91,22 +93,22 @@ El archivo en formato "**.txt**" generado por ADempiere, debe ser cargado al ban
 
 [ERPyA](http://erpya.com) pretende ofrecer una explicación eficiente a nuestros clientes del estándar de extracto bancario a través de una guía fácil y sencilla para así obtener resultados exitosos en la versión 3.9.2 de ADempiere en la localización Venezuela. A continuación se explica el estándar que se debe tener por banco para generar un extracto bancario desde ADempiere y poder cargar el mismo al banco requerido por el usuario.
 
-- [Bancaribe](bancaribe.md)
+- [Bancaribe](bancaribe/bancaribe)
 
-- [Banesco](banesco.md)
+- [Banesco](banesco/banesco)
 
-- [Banplus](banplus.md)
+- [Banplus](banplus/banplus)
 
-- [BFC](bfc.md)
+- [BFC](bfc/bfc)
 
-- [BOD](bod.md)
+- [BOD](bod/bod)
 
-- [Exterior](exterior.md)
+- [Exterior](exterior/exterior)
 
-- [Venezuela](venezuela.md)
+- [Venezuela](venezuela/venezuela)
 
-- [BNC](bnc.md)
+- [BNC](bnc/bnc)
 
-- [Mercantil](mercantil.md)
+- [Mercantil](mercantil/mercantil)
 
-- [Provincial](provincial.md)
+- [Provincial](provincial/provincial)
