@@ -95,6 +95,10 @@ Cada paquete de servicio es un pequeño proceso medible y finito dentro de las a
 
 - [Requerimientos de Instalación](setup/kubernetes_requirements.md)
 
+## Requerimientos para instalar un entorno productivo para el uso de Adempiere bajo Docker
+
+- [Requerimientos de Instalación Docker](setup/docker_requirements.md)
+
 ## Licencia Creativa
 
 [Atribución-SinDerivadas 4.0 Internacional (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.es)
